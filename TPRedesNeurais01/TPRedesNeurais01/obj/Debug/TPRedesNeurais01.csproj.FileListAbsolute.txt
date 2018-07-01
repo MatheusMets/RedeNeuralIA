@@ -1,0 +1,9 @@
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\bin\Debug\TPRedesNeurais01.exe.config
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\bin\Debug\TPRedesNeurais01.exe
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\bin\Debug\TPRedesNeurais01.pdb
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\bin\Debug\encog-core-cs.dll
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\obj\Debug\TPRedesNeurais01.csprojResolveAssemblyReference.cache
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\obj\Debug\TPRedesNeurais01.csproj.CoreCompileInputs.cache
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\obj\Debug\TPRedesNeurais01.csproj.CopyComplete
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\obj\Debug\TPRedesNeurais01.exe
+D:\MY THINGS\Documentos\GitHub\RedeNeuralIA\TPRedesNeurais01\TPRedesNeurais01\obj\Debug\TPRedesNeurais01.pdb
