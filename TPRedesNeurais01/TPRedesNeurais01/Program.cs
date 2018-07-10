@@ -65,7 +65,7 @@ namespace TPRedesNeurais01
             };
 
             BasicNetwork network = new BasicNetwork();      //Instancia da rede neural
-            network.AddLayer(new BasicLayer(3));            //Camada inicial que recebe as 3 entradas: Idade, tempo de estudo e falta
+            network.AddLayer(new BasicLayer(650));            //Camada inicial que recebe as 3 entradas: Idade, tempo de estudo e falta
             network.AddLayer(new BasicLayer(2));
             network.AddLayer(new BasicLayer(1));
 
